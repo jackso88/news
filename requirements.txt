@@ -1,0 +1,4 @@
+pygooglenews
+collections
+matplotlib
+wordcloud
